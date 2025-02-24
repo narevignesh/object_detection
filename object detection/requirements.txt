@@ -1,0 +1,8 @@
+torch==2.0.0
+torchvision==0.15.1
+torch-directml==0.2.0.dev230426
+ultralytics==8.0.196
+streamlit==1.31.0
+opencv-python==4.8.1.78
+pillow==10.0.1
+numpy==1.24.3 
